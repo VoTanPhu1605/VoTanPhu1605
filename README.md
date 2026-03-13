@@ -53,12 +53,17 @@ const VoTanPhu = {
 
 ---
 
-<!-- GITHUB TROPHIES -->
+<!-- SKILL BADGES -->
 <div align="center">
 
-### 🏆 GitHub Trophies
+### 🛠️ Kỹ năng & Chuyên môn
 
-<img src="https://github-profile-trophy.vercel.app/?username=VoTanPhu1605&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
+![Password Reset](https://img.shields.io/badge/Reset_Password-Windows_Local_%2F_MS_%2F_BIOS-6c3aff?style=for-the-badge&logo=windows&logoColor=white)
+![Ghost Win](https://img.shields.io/badge/Ghost_Win-10_Pro_%7C_11_Pro-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Virus Removal](https://img.shields.io/badge/Virus_Removal-HBCD_PE_Offline-E84042?style=for-the-badge&logo=virustotal&logoColor=white)
+![Data Recovery](https://img.shields.io/badge/Data_Recovery-TestDisk_%7C_Recuva-00C851?style=for-the-badge&logo=databricks&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware_Diag-RAM_%7C_SSD_%7C_CPU-FF6B35?style=for-the-badge&logo=intel&logoColor=white)
+![Software](https://img.shields.io/badge/Software-Office_%7C_Photoshop_%7C_AutoCAD-F7DF1E?style=for-the-badge&logo=adobe&logoColor=black)
 
 </div>
 
