@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/VoTanPhu1605">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=6C3AFF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Reset+Windows+Password+in+10+mins;Install+Ghost+Win+10+%2F+11+Pro+–+15+mins;Remove+Virus+Offline+with+HBCD+PE;Recover+Deleted+%26+Formatted+Data;Speed+Up+%26+Diagnose+Hardware;Home+Service+–+Fast+%7C+Reliable+%7C+Affordable" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=6C3AFF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Reset+Windows+Password+-+10+mins;Install+Ghost+Win+10+%2F+11+Pro+-+15+mins;Remove+Virus+Offline+with+HBCD+PE;Recover+Deleted+%26+Formatted+Data;Speed+Up+%26+Diagnose+Hardware;Home+Service+-+Fast+%7C+Reliable+%7C+Affordable" alt="Typing SVG" />
 </a>
 
 <br/>
