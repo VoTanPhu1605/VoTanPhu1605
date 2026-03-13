@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/VoTanPhu1605">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=6C3AFF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=🔓+Reset+mật+khẩu+Windows+trong+10+phút;💿+Cài+Ghost+Win+10+%2F+11+Pro+–+15+phút;🛡️+Diệt+virus+offline+bằng+HBCD+PE;💾+Khôi+phục+dữ+liệu+đã+xóa+%2F+format;⚡+Tăng+tốc+%26+chẩn+đoán+phần+cứng;🏠+Phục+vụ+tận+nơi+–+Nhanh+%7C+Uy+tín+%7C+Rẻ" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=6C3AFF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Reset+Windows+Password+in+10+mins;Install+Ghost+Win+10+%2F+11+Pro+–+15+mins;Remove+Virus+Offline+with+HBCD+PE;Recover+Deleted+%26+Formatted+Data;Speed+Up+%26+Diagnose+Hardware;Home+Service+–+Fast+%7C+Reliable+%7C+Affordable" alt="Typing SVG" />
 </a>
 
 <br/>
