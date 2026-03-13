@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=Võ%20Tấn%20Phú&fontSize=70&fontColor=fff&stroke=6c3aff&strokeWidth=2&desc=💻%20IT%20Support%20%7C%20PC%20Rescue%20Expert&descSize=20&descAlignY=75&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d1a,50:6c3aff,100:00d4ff&text=Vo%20Tan%20Phu&fontSize=72&fontColor=fff&fontAlignY=40&desc=IT%20Support%20%7C%20PC%20Rescue%20Expert%20%7C%200969%20610%20972&descSize=18&descAlignY=62&animation=fadeIn&stroke=6c3aff&strokeWidth=1" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/VoTanPhu1605">
