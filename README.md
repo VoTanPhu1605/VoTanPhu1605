@@ -1,158 +1,184 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6c3aff&height=200&section=header&text=Võ%20Tấn%20Phú&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20%7C%20Chuyên%20gia%20cứu%20hộ%20máy%20tính&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=Võ%20Tấn%20Phú&fontSize=70&fontColor=fff&stroke=6c3aff&strokeWidth=2&desc=💻%20IT%20Support%20%7C%20PC%20Rescue%20Expert&descSize=20&descAlignY=75&animation=fadeIn" width="100%"/>
+
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/VoTanPhu1605">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=6C3AFF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=🔓+Reset+mật+khẩu+Windows+trong+10+phút;💿+Cài+Ghost+Win+10+%2F+11+Pro+–+15+phút;🛡️+Diệt+virus+offline+bằng+HBCD+PE;💾+Khôi+phục+dữ+liệu+đã+xóa+%2F+format;⚡+Tăng+tốc+%26+chẩn+đoán+phần+cứng;🏠+Phục+vụ+tận+nơi+–+Nhanh+%7C+Uy+tín+%7C+Rẻ" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Be+Vietnam+Pro&weight=700&size=22&duration=3000&pause=800&color=6C3AFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Reset+mật+khẩu+•+Cài+Windows+Ghost;Diệt+virus+•+Khôi+phục+dữ+liệu;Hỗ+trợ+tận+nơi+–+Nhanh+•+Uy+tín+•+Giá+hợp+lý)](https://github.com/VoTanPhu1605)
+<!-- CONTACT BADGES -->
+<a href="tel:0969610972"><img src="https://img.shields.io/badge/📞_HOTLINE-0969_610_972-00C851?style=for-the-badge&logoColor=white"/></a>
+<a href="https://zalo.me/0969610972"><img src="https://img.shields.io/badge/Zalo-Chat_ngay-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/></a>
+<a href="mailto:votanphu010@gmail.com"><img src="https://img.shields.io/badge/Gmail-votanphu010-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://votanphu1605.github.io"><img src="https://img.shields.io/badge/🌐_Website-TechFix_Pro-6c3aff?style=for-the-badge"/></a>
 
-<br/>
+<br/><br/>
 
-[![Phone](https://img.shields.io/badge/📞%200969%20610%20972-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:0969610972)
-[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0969610972)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votanphu010@gmail.com)
-[![Website](https://img.shields.io/badge/🌐%20Website-6c3aff?style=for-the-badge)](https://votanphu1605.github.io)
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=VoTanPhu1605&color=6c3aff&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/VoTanPhu1605?style=for-the-badge&color=6c3aff&labelColor=0a0a14&label=Followers"/>
 
 </div>
 
 ---
 
-## 👋 Giới thiệu
+<!-- ABOUT ME - CODE BLOCK -->
+```javascript
+const VoTanPhu = {
+  role     : "IT Support & PC Rescue Expert 🛠️",
+  phone    : "0969 610 972  →  Gọi / Zalo / Telegram",
+  email    : "votanphu010@gmail.com",
+  website  : "https://votanphu1605.github.io",
 
-```python
-profile = {
-    "name"     : "Võ Tấn Phú",
-    "role"     : "IT Support & PC Technician",
-    "phone"    : "0969 610 972",
-    "email"    : "votanphu010@gmail.com",
-    "services" : [
-        "🔓 Reset mật khẩu Windows (AnhDV Boot + HBCD PE)",
-        "💿 Cài Windows Ghost  → Win 10 / Win 11 Pro",
-        "📦 Cài phần mềm, driver tự động",
-        "🛡️ Diệt virus offline (Hiren's Boot CD PE)",
-        "💾 Khôi phục dữ liệu  → TestDisk / Recuva",
-        "⚡ Tăng tốc, chẩn đoán phần cứng",
-    ],
-    "tools"    : ["Ventoy", "AnhDV Boot", "HBCD PE", "Ghost Win"],
-    "motto"    : "Một cuộc gọi – mọi sự cố được giải quyết ngay hôm nay! 🚀",
-}
+  usb_boot : ["🔵 AnhDV Boot Pre 24.1", "🟠 Hiren's Boot CD PE x64", "⚡ Ventoy Multi-Boot"],
+  windows  : ["Win 10 Pro 22H2 x32/x64", "Win 11 Pro 25H2", "Win 11 Pro 26H1"],
+
+  services : {
+    "🔓 Reset mật khẩu" : "Local / Microsoft / BIOS  →  10–20 phút",
+    "💿 Cài Windows"    : "Ghost Win từ USB          →  15–20 phút",
+    "🛡️ Diệt virus"     : "Offline với HBCD PE       →  Triệt để 100%",
+    "💾 Khôi phục data" : "TestDisk / Recuva / PhotoRec",
+    "⚡ Tăng tốc máy"   : "Chẩn đoán RAM/SSD/CPU     →  Tư vấn nâng cấp",
+    "📦 Cài phần mềm"   : "Office / Photoshop / AutoCAD / Kế toán...",
+  },
+
+  working_hours : "7:00 – 22:00 hằng ngày  |  🚨 Cấp cứu 24/7",
+  motto         : "Một cuộc gọi – mọi sự cố được giải quyết ngay hôm nay! 🚀",
+};
 ```
 
 ---
 
-## 🛠️ Dịch vụ nổi bật
-
+<!-- GITHUB TROPHIES -->
 <div align="center">
 
-| 🔓 Reset mật khẩu | 💿 Cài Windows Ghost | 🛡️ Diệt virus offline |
-|:---:|:---:|:---:|
-| Win 7 / 8 / 10 / 11 | Win 10 Pro 22H2 (x32 & x64) | HBCD PE – quét khi Win lỗi |
-| Tài khoản Local & Microsoft | Win 11 Pro 25H2 & 26H1 | Diệt ransomware, trojan, rootkit |
-| Mở khóa BIOS password | Driver tự nhận – không cần mạng | Cài antivirus bản quyền |
-| **10–20 phút** ⚡ | **15–20 phút** ⚡ | **Tỷ lệ thành công cao** ✅ |
+### 🏆 GitHub Trophies
 
-| 💾 Khôi phục dữ liệu | ⚡ Tăng tốc máy | 📦 Cài phần mềm |
-|:---:|:---:|:---:|
-| TestDisk / PhotoRec / Recuva | Test RAM, SSD, CPU | Office, Photoshop, AutoCAD |
-| Sửa MBR/GPT, phân vùng lỗi | Tối ưu startup & registry | Phần mềm kế toán, bán hàng |
-| Cứu dữ liệu khi Win sập | Tư vấn nâng cấp RAM/SSD | Không cần mạng – từ USB |
+<img src="https://github-profile-trophy.vercel.app/?username=VoTanPhu1605&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
 
 </div>
 
 ---
 
-## 🧰 Công cụ chuyên dụng
-
+<!-- STATS GRID -->
 <div align="center">
 
-![Ventoy](https://img.shields.io/badge/Ventoy-USB%20Boot-0078D4?style=for-the-badge&logo=usb&logoColor=white)
-![AnhDV Boot](https://img.shields.io/badge/AnhDV%20Boot-Pre%2024.1-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
-![HBCD PE](https://img.shields.io/badge/Hiren's%20Boot%20CD-PE%20x64-E84042?style=for-the-badge&logo=windows&logoColor=white)
-![Ghost Win](https://img.shields.io/badge/Ghost%20Win-10%20%2F%2011%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+### 📊 GitHub Stats
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=VoTanPhu1605&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=6c3aff&icon_color=ff6b35&text_color=e2e8f0&ring_color=6c3aff&border_radius=12&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoTanPhu1605&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=6c3aff&text_color=e2e8f0&border_radius=12&langs_count=8"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=VoTanPhu1605&theme=radical&hide_border=true&background=0d0d1a&ring=6c3aff&fire=ff6b35&currStreakLabel=6c3aff&border_radius=12&date_format=j%20M%5B%20Y%5D" width="70%"/>
 
 </div>
 
 ---
 
-## 💻 Tech Stack
-
+<!-- ACTIVITY GRAPH -->
 <div align="center">
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VoTanPhu1605&bg_color=0d0d1a&color=6c3aff&line=6c3aff&point=ff6b35&area=true&area_color=6c3aff&hide_border=true&radius=12&custom_title=VoTanPhu1605%20Contribution%20Graph" width="100%"/>
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VoTanPhu1605/VoTanPhu1605/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VoTanPhu1605/VoTanPhu1605/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/VoTanPhu1605/VoTanPhu1605/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+<!-- TECH STACK -->
+<div align="center">
+
+### ⚡ Tech Stack & Tools
+
+**OS & Systems**
+
+![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows_10-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_PE-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Boot & Recovery Tools**
+
+![Ventoy](https://img.shields.io/badge/Ventoy-Multi_Boot-009688?style=for-the-badge&logo=usb&logoColor=white)
+![AnhDV](https://img.shields.io/badge/AnhDV_Boot-Pre_24.1-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
+![HBCD](https://img.shields.io/badge/Hiren's_Boot_CD-PE_x64-E84042?style=for-the-badge&logo=windows&logoColor=white)
+
+**Web Development**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
+<!-- SERVICES & PRICING TABLE -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VoTanPhu1605&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a14&title_color=6c3aff&icon_color=6c3aff&text_color=e2e8f0&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoTanPhu1605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a14&title_color=6c3aff&text_color=e2e8f0&border_radius=12" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VoTanPhu1605&theme=tokyonight&hide_border=true&background=0a0a14&ring=6c3aff&fire=ff6b35&currStreakLabel=6c3aff&border_radius=12" />
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VoTanPhu1605&bg_color=0a0a14&color=6c3aff&line=6c3aff&point=ffffff&area=true&area_color=6c3aff&hide_border=true&radius=12)
-
-</div>
-
----
-
-## 💰 Bảng giá dịch vụ
-
-<div align="center">
+### 💰 Bảng giá dịch vụ
 
 | Dịch vụ | Giá | Thời gian | Bảo hành |
 |:---|:---:|:---:|:---:|
-| 🔓 Reset mật khẩu | **từ 50.000đ** | 10–20 phút | ✅ |
-| 💿 Cài Windows Ghost | **từ 150.000đ** | 15–20 phút | 30 ngày |
+| 🔓 Reset mật khẩu Windows | **từ 50.000đ** | 10–20 phút | ✅ |
+| 💿 Cài Windows Ghost 10/11 | **từ 150.000đ** | 15–20 phút | 30 ngày |
 | 📦 Cài phần mềm | **từ 80.000đ** | 20–30 phút | ✅ |
 | 🛡️ Diệt virus toàn diện | **từ 100.000đ** | 30–45 phút | ✅ |
-| 💾 Khôi phục dữ liệu | **từ 200.000đ** | Tuỳ trường hợp | ✅ |
+| 💾 Khôi phục dữ liệu | **từ 200.000đ** | Tuỳ TH | ✅ |
 | ⚡ Gói tổng thể | **từ 300.000đ** | 1–2 giờ | **60 ngày** |
 
-> 💡 *Báo giá trước khi làm – Thanh toán sau khi hài lòng – Không phí ẩn*
+> 💡 Báo giá trước • Thanh toán sau khi hài lòng • Không phí ẩn • Phục vụ **tận nơi**
 
 </div>
 
 ---
 
-## 📞 Liên hệ ngay
-
+<!-- FOOTER CTA -->
 <div align="center">
 
+### 📞 Liên hệ ngay – Giải quyết trong hôm nay!
+
 <a href="tel:0969610972">
-  <img src="https://img.shields.io/badge/📞%20Gọi%20ngay-0969%20610%20972-25D366?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/📞_GỌI_NGAY-0969_610_972-00C851?style=for-the-badge&logoColor=white&labelColor=006400"/>
 </a>
 &nbsp;
 <a href="https://zalo.me/0969610972">
-  <img src="https://img.shields.io/badge/💬%20Chat%20Zalo-0068FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/💬_ZALO-Nhắn_tin_ngay-0068FF?style=for-the-badge&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:votanphu010@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://votanphu1605.github.io">
+<img src="https://img.shields.io/badge/🌐_WEBSITE-votanphu1605.github.io-6c3aff?style=for-the-badge"/>
 </a>
 
 <br/><br/>
 
-> 🕐 Hỗ trợ **7:00 – 22:00** hằng ngày &nbsp;|&nbsp; 🚨 Cấp cứu **24/7** (phụ phí)
-> 🏠 Phục vụ **tận nơi** – nhà riêng, văn phòng, quán net
+> 🕐 **7:00 – 22:00** hằng ngày &nbsp;|&nbsp; 🚨 Cấp cứu **24/7** (phụ phí) &nbsp;|&nbsp; 🏠 Phục vụ **tận nơi**
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=VoTanPhu1605&color=6c3aff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/VoTanPhu1605)
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6c3aff&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
